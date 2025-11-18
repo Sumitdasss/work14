@@ -99,7 +99,7 @@ h4,h1,h2,h3,h5,h6,p{
 }
 .social1 a{
 font-size: 20px;
-padding-left: 10px;
+margin-left: 10px;
 }
 .social1 a{
     padding: 10px 10px;
@@ -111,3 +111,5 @@ padding-left: 10px;
 .social1{
     margin-top: 300px;
 }
+
+    
