@@ -216,6 +216,10 @@ color: white;
     color: tomato;
     transition: .7s;
 }
+.button3 i:hover{
+color: tomato;
+transition: .7s;
+}
 .mainFlex1{
     display: flex;
 column-gap: 20px;
@@ -321,4 +325,242 @@ margin-top: -250px;
     font-size: 15px;
     margin-left: 5px;
      color: #FF4655;
+}
+.bannerPart3{
+    width: 1920px;
+    height: 785px;
+    background-color: #191919;
+    margin: 0 auto;
+}
+.two1{
+  margin-left: 645px;  
+
+}
+
+.two1 h3{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 126px;
+}
+.two1 h4{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top:27.5px ;
+    padding-left: 492px;
+}
+.two1 h4::after{
+    width: 105px;
+    height: 4px;
+    position: absolute;
+    content: "";
+    margin-top:22px;
+    margin-left:-280px ;
+    background-color: #FF4655;
+
+}
+.two2{
+    width: 651px;
+    height: 390px;
+    background: url(../imges/11.png);
+    
+}
+.two3{
+    width: 651px;
+    height: 390px;
+    background: url(../imges/22.png);
+}
+.row{
+    column-gap: 95px;
+    margin-top: 86PX;
+}
+.two2 img{
+    margin-top: -174px;
+    margin-left: 60px;
+}
+.button4{
+ margin-left:1230px;
+    margin-top:-100px;
+}
+.button5{
+    margin-left:1230px;
+    margin-top:-40px ;
+}
+.button4 a{
+  padding: 10px 10px;
+    background-color: #191919;
+    border: 4px solid white;
+    border-radius: 50%;
+    color: white;
+}
+.button5 a{
+    padding: 10px 10px;
+    background-color: #191919;
+    border: 4px solid white;
+    border-radius: 50%;
+    color: white;
+
+}
+.button4 a:hover{
+    color: tomato;
+    transition: .7s;
+}
+.button5 a:hover{
+    color: tomato;
+    transition: .7s;
+}
+.three1 h3{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 47.5px;
+    padding-top: 102px;
+}
+
+.bannerPart5{
+    width: 1920px;
+    height: 1089.47px;
+    background-color: #121212;
+    margin: 0 auto;
+}
+.three1 h3::after{
+    width: 120px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top:30px;
+    margin-left:20px ;
+    background-color: #FF4655;
+
+}
+.row1{
+    column-gap: 18px;
+    display: flex;
+    margin-top: 87px;
+}
+
+.col1{
+    width: 427px;
+    height: 275.46px;
+    background: url(../imges/tournament-item1.png);
+}
+.col2{
+height:295.13px ;
+width: 426px;
+background: url(../imges/tour-content2.png);
+margin-top: -9px;
+}
+.col3{
+ width: 427px;
+    height: 275.46px;
+    background: url(../imges/tournament-item3.png);
+}
+.three2 h4{
+    font-size: 25px;
+    font-weight: 500;
+    color: #FFFFFF;
+text-align: center;
+}
+.three2{
+    margin-top: 67px;
+}
+.row2{
+display: flex;
+margin-top: 54px;
+margin-left: 110px;
+}
+.row3{
+display: flex;
+margin-top: 60px;
+margin-left:110px ;
+}
+.col4{
+width:426px;
+height:118.05px ;
+background: url(../imges/44.png);
+}
+.col5{
+width: 243px;
+height: 118.05px;
+}
+.col6{
+width:426px;
+height:118.05px ;
+background:url(../imges/55.png) ;
+}
+.col7{
+width:426px;
+height:118.05px ;
+background: url(../imges/44.png);
+}
+.col8{
+width: 243px;
+height: 118.05px;
+}
+.col9{
+width:426px;
+height:118.05px ;
+background:url(../imges/55.png) ;
+}
+.col4 img{
+  margin-top:11px ;  
+  margin-left:7px ;
+}
+.col6 img{
+margin-left: 325px;
+margin-top: 14px;
+
+}
+.col7 img{
+margin-top: 10px;
+}
+.col9 img{
+margin-left: 320px;
+margin-top: 14px;
+}
+.col5 h3{
+font-size:40px ;
+font-weight:500 ;
+color: #FFFFFF;
+text-align: center;
+padding-top:35px ;
+
+}
+.col8 h3{
+font-size:40px ;
+font-weight:500 ;
+color: #FFFFFF;
+text-align: center;
+padding-top:35px ;
+
+}
+.col4 h4{
+   font-size:25px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   margin-top: -60px;
+   margin-left: 200px;
+   
+}
+.col6 h4{
+font-size:25px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   margin-top: -60px;
+   margin-left:60px ;
+}
+.col7 h4{
+font-size:25px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   margin-top: -60px;
+   margin-left: 190px;
+}
+.col9 h4{
+font-size:25px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   margin-top: -60px;
+   margin-left:60px ;
 }
