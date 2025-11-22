@@ -525,6 +525,7 @@ font-weight:500 ;
 color: #FFFFFF;
 text-align: center;
 padding-top:35px ;
+font-family: "Zalando Sans SemiExpanded", sans-serif;
 
 }
 .col8 h3{
@@ -533,6 +534,7 @@ font-weight:500 ;
 color: #FFFFFF;
 text-align: center;
 padding-top:35px ;
+font-family: "Zalando Sans SemiExpanded", sans-serif;
 
 }
 .col4 h4{
@@ -541,6 +543,7 @@ padding-top:35px ;
    color: #FFFFFF;
    margin-top: -60px;
    margin-left: 200px;
+   font-family: "Zalando Sans SemiExpanded", sans-serif;
    
 }
 .col6 h4{
@@ -549,6 +552,7 @@ font-size:25px ;
    color: #FFFFFF;
    margin-top: -60px;
    margin-left:60px ;
+   font-family: "Zalando Sans SemiExpanded", sans-serif;
 }
 .col7 h4{
 font-size:25px ; 
@@ -556,6 +560,7 @@ font-size:25px ;
    color: #FFFFFF;
    margin-top: -60px;
    margin-left: 190px;
+   font-family: "Zalando Sans SemiExpanded", sans-serif;
 }
 .col9 h4{
 font-size:25px ; 
@@ -563,4 +568,529 @@ font-size:25px ;
    color: #FFFFFF;
    margin-top: -60px;
    margin-left:60px ;
+   font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.bannerPart7{
+    width: 1920px;
+    height: 1463px;
+    background-color: #191919;
+    margin: 0 auto;
+}
+.three3 h3{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 100px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.three3 h4{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top:20px ;
+    padding-left: 492px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.three3 h4::after{
+    width: 105px;
+    height: 4px;
+    position: absolute;
+    content: "";
+    margin-top:22px;
+    margin-left:-280px ;
+    background-color: #FF4655;
+
+}
+.three3{
+  margin-left: 645px;  
+
+}
+.row4{
+    display: flex;
+    column-gap: 18px;
+    margin-top: 54px;
+}
+.col20{
+    width: 315px;
+    height: 568px;
+
+}
+.col21{
+ width: 315px;
+    height: 568px;
+    
+}
+.col22{
+ width: 315px;
+    height: 568px;
+    
+}
+.col23{
+ width: 315px;
+    height: 568px;
+    
+}
+.col20 h4{
+ font-size: 18px;   
+ font-weight: 600;
+ color: #FFFFFF;
+ padding-top: 24px;
+ font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col20 h5{ 
+    font-size:16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 24px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+    .three4{
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        padding:10px 15px ;
+        background-color: #FF4655;
+        display: inline-block;
+        margin-top: 20px;
+        font-family: "Zalando Sans SemiExpanded", sans-serif;
+    }
+    .three5{
+      font-size: 19px;
+        font-weight: 400;
+        color:#666666;
+        margin-left: 11px; 
+        font-family: "Zalando Sans SemiExpanded", sans-serif;
+    }
+.three6{
+   font-size: 19px;
+        font-weight: 400; 
+           margin-left: 11px; 
+           color: #FFFFFF;
+           font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.three5::after{
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    margin-top:43px;
+    margin-left:-60px ;
+    background-color: #666666;
+
+}
+.col21 h4{
+ font-size: 18px;   
+ font-weight: 600;
+ color: #FFFFFF;
+ padding-top: 24px;
+ font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col21 h5{ 
+    font-size:16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 24px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col22 h4{
+ font-size: 18px;   
+ font-weight: 600;
+ color: #FFFFFF;
+ padding-top: 24px;
+ font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col22 h5{ 
+    font-size:16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 24px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col23 h4{
+ font-size: 18px;   
+ font-weight: 600;
+ color: #FFFFFF;
+ padding-top: 24px;
+ font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.col23 h5{ 
+    font-size:16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 24px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.three7 h4{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    
+}
+.three7{
+    margin-top: 77px;
+}
+.three8{
+    width:1318px ;
+    height:454px ;
+    background-color:#121212 ;
+    margin-top: 34px;
+}
+.col24 h4{
+ font-size:16px;
+    font-weight: 500;
+    color: #FF4655;
+    padding-top: 54px;
+    padding-left: 44px;
+}
+.col24 h3{
+ font-size:26px;
+    font-weight: 600;
+    color: #FFFFFF;
+        padding-left: 44px;
+        line-height: 26px;
+        padding-top: 30px;
+}
+.col24 p{
+ font-size:16px;
+    font-weight: 700;
+    color: #666666;
+        padding-left: 44px;
+        padding-top: 30px;
+        line-height: 25px;
+            font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.row5{
+    display: flex;
+    column-gap: 80px;
+}
+.col24 a{
+    padding: 17px 20px;
+    background-color: black;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    display: inline-block;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.col24 a:hover{
+    color: black;
+    background-color:white;
+    transition: .7s;
+}
+.col25{
+    margin-top: 42px;
+}
+
+.col20:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.col21:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.col22:hover{
+   transform: scale(1.1);
+    transition: .7s; 
+}
+.col23:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.four1 h3{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 47.5px;
+    padding-top: 102px;
+}
+
+.bannerPart9{
+    width: 1920px;
+    height: 858px;
+    background-color: #121212;
+    margin: 0 auto;
+}
+.four1 h3::after{
+    width: 120px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top:30px;
+    margin-left:20px ;
+    background-color: #FF4655;
+
+}
+.four2{
+    width:315px ;
+    height:465px ;
+    background-color:#212121 ;
+}
+
+.four3{
+    width:315px ;
+    height:465px ;
+    background-color:#212121 ;
+}
+.four4{
+    width:315px ;
+    height:465px ;
+    background-color:#212121 ;
+}
+.four5{
+    width:315px ;
+    height:465px ;
+    background-color:#212121 ;
+}
+.row6{
+    display: flex;
+    column-gap: 20px;
+    margin-top: 111px;
+}
+.four2 h3{
+   font-size:40px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   text-align: center;
+   padding-top: 37px;
+}
+.four2 h4{
+font-size: 25px;
+font-weight: 600;
+color: #FFFFFF;
+text-align: center;
+line-height: 50px;
+padding-top: 50px;
+
+}
+.four2 a{
+font-size:18px ;
+font-weight:600 ;
+color: #FF4655;
+text-align: center;
+text-transform: uppercase;
+margin-left: 100px;
+}
+.four3 h3{
+ font-size:40px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   text-align: center;
+   padding-top: 37px;
+}
+.four3 h4{
+font-size: 25px;
+font-weight: 600;
+color: #FFFFFF;
+text-align: center;
+line-height: 50px;
+padding-top: 40px;
+}
+.four3 a{
+font-size:18px ;
+font-weight:600 ;
+color: #FF4655;
+text-align: center;
+margin-top: 20px;
+margin-left: 100px;
+text-transform: uppercase;
+}
+.four4 h3{
+font-size:40px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   text-align: center;
+   padding-top: 37px;
+}
+.four4 h4{
+font-size: 25px;
+font-weight: 600;
+color: #FFFFFF;
+text-align: center;
+line-height: 50px;
+padding-top: 40px;
+}
+.four4 a{
+font-size:18px ;
+font-weight:600 ;
+color: #FF4655;
+text-align: center;
+margin-top: 20px;
+margin-left: 100px;
+text-transform: uppercase;
+}
+.four5 h3{
+font-size:40px ; 
+   font-weight:500 ;
+   color: #FFFFFF;
+   text-align: center;
+   padding-top: 37px;
+}
+.four5 h4{
+font-size: 25px;
+font-weight: 600;
+color: #FFFFFF;
+text-align: center;
+line-height: 50px;
+padding-top: 50px;
+}.four5 a{
+font-size:18px ;
+font-weight:600 ;
+color: #FF4655;
+text-align: center;
+text-transform: uppercase;
+margin-left: 100px;
+}
+
+.four2 img{
+margin-left: 29px; 
+}
+.four3 img{
+margin-left: 24px;
+}
+.four4 img{
+margin-left: 21px;
+}
+.four5 img{
+margin-left: 29px;
+}
+.four2 a:hover{
+    color: white;
+    transition: .7s;
+}
+.four3 a:hover{
+    color: white;
+    transition: .7s;
+}
+.four4 a:hover{
+    color: white;
+    transition: .7s;
+}
+.four5 a:hover{
+    color: white;
+    transition: .7s;
+}
+.button7 a{
+ padding: 10px 10px;
+ background-color: #FF4655; 
+ border: 2px solid white;  
+ color: white;
+ border-radius: 50%;
+ 
+}
+.button8 a{
+padding: 10px 10px;
+ background-color: #FF4655; 
+ border: 2px solid white;  
+ color: white;
+ border-radius: 50%;
+}
+.button7{
+   margin-top:-240px ; 
+   margin-left:-28px ;
+}
+.button8{
+margin-top: -25px;
+margin-left: 1280px;
+}
+.four6 h4{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top:20px ;
+    padding-left: 560px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.four6 h4::after{
+    width: 105px;
+    height: 4px;
+    position: absolute;
+    content: "";
+    margin-top:-5px;
+    margin-left:-125px ;
+    background-color: #FF4655;
+
+}
+.four6{
+  margin-left: 618px;  
+
+}
+.bannerPart11{
+    height: 1210px;
+    width: 1920px;
+    background-color: #212121;
+    margin: 0 auto;
+}
+.four6 h3{
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 100px;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+.four7{
+  width: 650px;  
+  height: 428.35px;
+  background:url(../imges/66.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.four8{
+width: 650px;  
+  height: 428.35px;
+
+  
+}
+.four9{
+width: 645px;  
+  height: 428.35px;
+  
+}
+.four10{
+width: 645px;  
+  height: 428.35px;
+ 
+}
+.row7{
+    display: flex;
+    column-gap: 20px;
+margin-top: 57px;
+}
+.row8{
+    display: flex;
+    column-gap: 20px;
+    margin-top: 30px;
+}
+.four11{
+    width: 622px;
+    height: 212.18px;
+    background-color: #252424;
+    opacity: 38%;
+    margin-top: 216px;
+}
+.four7 h4{
+    font-size:30px ;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 58px;
+    padding-left: 30px;
+}
+.four7 h5{
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+     padding-left: 30px;
+     padding-top: 20px;
+}
+.four7 a{
+    padding: 15px 20px;
+    background-color: #FF4655;
+    font-size:18px ;
+    font-weight:400 ;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
 }
