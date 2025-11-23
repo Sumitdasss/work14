@@ -1032,35 +1032,96 @@ margin-left: 1280px;
 .four7{
   width: 650px;  
   height: 428.35px;
-  background:url(../imges/66.png) ;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
+ 
+  position: relative;
+}
+.overlay{
+    width: 650px;
+    height: 212.18px;
+background-color: #252424;
+    opacity: 38%;    
+    position: absolute;
+    top:215px ;
+    left: 0px;
+}
+.overlay1{
+    width: 650px;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;    
+    position: absolute;
+    top:338px ;
+    left: 0px;
+}
+.overlay1 h3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 33px;
+    padding-left: 31px;
+    
+}
+
+.overlay2 h3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 33px;
+    padding-left: 31px;
+}
+.overlay3 h3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 33px;
+    padding-left: 31px;
+}
+.overlay2{
+    width: 650px;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;    
+    position: absolute;
+    top:338px ;
+    left: 0px;
+}.overlay3{
+    width: 650px;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;    
+    position: absolute;
+    top:338px ;
+    left: 0px;
 }
 .four8{
 width: 650px;  
   height: 428.35px;
+  position: relative;
 
   
 }
 .four9{
 width: 645px;  
   height: 428.35px;
+  position: relative;
   
 }
 .four10{
 width: 645px;  
   height: 428.35px;
+  position: relative;
  
 }
 .row7{
     display: flex;
     column-gap: 20px;
 margin-top: 57px;
+
 }
 .row8{
     display: flex;
-    column-gap: 20px;
+    column-gap: 25px;
     margin-top: 30px;
 }
 .four11{
@@ -1070,21 +1131,22 @@ margin-top: 57px;
     opacity: 38%;
     margin-top: 216px;
 }
-.four7 h4{
+.overlay h4{
     font-size:30px ;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 58px;
     padding-left: 30px;
 }
-.four7 h5{
+.overlay h5{
     font-size: 18px;
     font-weight: 400;
     color: #FFFFFF;
      padding-left: 30px;
      padding-top: 20px;
+    
 }
-.four7 a{
+.overlay a{
     padding: 15px 20px;
     background-color: #FF4655;
     font-size:18px ;
