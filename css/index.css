@@ -1370,6 +1370,7 @@ background-color: white;
 border-radius: 50px;
 font-size: 21px;
 padding-left: 20px;
+border: none;
 
 }
 .class13{
@@ -1383,6 +1384,7 @@ button{
    color: #FFFFFF;
    border-radius: 50px;
    font-size: 19px;
+   border: none;
 }
 .class14{
     margin-top:-50px ;
@@ -1390,7 +1392,7 @@ button{
 }
 .bannerPart13{
     width:1920px ;
-    height:652px ;
+    height:600px ;
     background-color:#191919 ;
 margin: 0 auto;
 }
@@ -1400,6 +1402,7 @@ margin: 0 auto;
 }
 .row15{
     display: flex;
+    
 
 }
 .class15 p{
@@ -1428,4 +1431,91 @@ margin: 0 auto;
 }
 .class20{
     margin-top: 65px;
+}
+.class16{
+    margin-top: 140px;
+}
+.class16 h3{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    padding-left: 72px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.class21 a{
+padding-top: 22px;
+    font-weight: 600;
+    color:#666666 ;
+    line-height: 66px;
+    padding-left: 72px;
+
+
+}
+.class21 a:hover{
+    color: #FF4655;
+    transition: .7s;
+}
+
+.class17{
+    margin-top: 140px;
+}
+.class17 h3{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    padding-left: 72px;
+}
+.class22 li{
+    padding-top: 22px;
+    font-weight: 600;
+    color:#666666 ;
+    line-height: 41px;
+    padding-left: 72px;
+}
+.class22 li:hover{
+    color: #FF4655;
+    transition: .7s;
+}
+.class18{
+    margin-top: 140px;
+}
+.class18 h3{
+     font-size: 25px;
+    font-weight: 600;
+    color: white;
+    padding-left: 72px;
+}
+.class18 img{
+    
+    margin-left: 72px;
+    margin-top: 35px;
+}
+.class23{
+  width: 1320px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top:90px;
+
+    background-color: #666666;  
+}
+.class24 h4{
+     font-size: 20px;
+    font-weight: 400;
+    color: white;
+    padding-left: 72px;
+    text-align: center;
+    padding-top: 122px;
+}
+.class25{
+    font-size: 25px;
+    font-weight: 400;
+    color: #FF4655;
+    text-align: center;
+    
+
 }
