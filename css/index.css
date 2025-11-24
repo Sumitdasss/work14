@@ -1156,3 +1156,276 @@ margin-top: 57px;
     margin-top: 10px;
     color: white;
 }
+.social2 a{
+    padding:5PX 5PX ;
+    background-color:#FF4655;
+    border: 2PX solid black;
+    border-radius: 50%;
+    padding-top:9px ;
+    padding-left:4px ;
+    font-size: 20px;
+
+
+}
+.social2{
+    margin-left:364PX ;
+    margin-top:-62PX ;
+}
+.bannerPart12{
+    height:826px ;
+    width:1920px ;
+    background-color: #121212;
+    margin: 0 auto;
+    position: relative;
+
+}
+.class1 h3{
+ font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height:40px ;
+    padding-top:66px ;
+}
+.class1 h3::after{
+    width: 128.88px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top:30px;
+    margin-left:30px ;
+    background-color: #FF4655;
+
+}
+.row9{
+  display: flex;  
+  column-gap:100px ;
+  margin-top: 125px;
+}
+.row10{
+ display: flex;  
+ width: 600px;
+ height: 109px;
+}
+.row11{
+ display: flex;
+  width: 600px;
+ height: 109px;  
+}
+
+.row12{
+ display: flex;  
+column-gap:100px ;
+margin-top: 150px;
+}
+.row13{
+ display: flex;
+  width: 600px;
+ height: 109px; 
+}
+.row14{
+ display: flex;  
+  width: 600px;
+ height: 109px;
+}
+.class2 h4{
+    padding: 37px 52px;
+    background-color: #FF4655;
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.class3 h4{
+    
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #FF4655;
+    padding-left:42px ;
+}
+.class3 p{
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 42px;
+    line-height: 25px;
+}
+.class4 h4{
+    padding: 37px 47px;
+    background-color: #FF4655;
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.class5 h4{
+    
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-left:42px ;
+}
+.class5 p{
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 42px;
+    line-height: 25px;
+}
+.class6 h4{
+    padding: 37px 47px;
+    background-color: #FF4655;
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.class7 h4{
+    
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-left:42px ;
+}
+.class7 p{
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 42px;
+    line-height: 25px;
+}
+.class8 h4{
+    padding: 37px 47px;
+    background-color: #FF4655;
+    font-size: 38px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.class9 h4{
+    
+
+    font-size: 20px;
+    font-weight: 500;
+    color:#FFFFFF;
+    padding-left:42px ;
+}
+.class9 p{
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 42px;
+    line-height: 25px;
+}
+.class10{
+  width: 1320px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top:-188px;
+
+    background-color: #666666;  
+}
+.class11{
+  width: 369px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    margin-top:-184px;
+    margin-left:467px ;
+    background-color: #666666;  
+    rotate: calc(90deg);
+}
+
+.class12{
+    width: 1320px;
+    height: 165px;
+    background-color: #FF4655;
+    margin-top:111px ;
+    position: absolute;
+}
+.class12 h3{
+    font-size: 28px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 49px;
+    line-height: 41px;
+    text-transform: uppercase;
+    padding-left: 30px;
+}
+input{
+width: 420px;
+height: 50px;
+background-color: white;
+border-radius: 50px;
+font-size: 21px;
+padding-left: 20px;
+
+}
+.class13{
+    margin-top: -70px;
+    margin-left: 880px;
+}
+button{
+   width: 180px;
+   height: 50px;
+   background-color: black;
+   color: #FFFFFF;
+   border-radius: 50px;
+   font-size: 19px;
+}
+.class14{
+    margin-top:-50px ;
+    margin-left:240px ;
+}
+.bannerPart13{
+    width:1920px ;
+    height:652px ;
+    background-color:#191919 ;
+margin: 0 auto;
+}
+.class15 img{
+    margin-top: 140px;
+
+}
+.row15{
+    display: flex;
+
+}
+.class15 p{
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #666666;
+    padding-top: 35px;
+    line-height: 30px;
+
+}
+.class19 a{
+    font-size: 30px;
+    padding: 5px 5px ;
+    background-color: #FF4655!important;
+    border-radius: 50%;
+    color: white;
+    margin-top: 65px;
+}
+.class20 a{
+        padding: 5px 5px ;
+    font-size: 30px;
+    background-color: #212429;
+        border-radius: 50%;
+        color: white;
+}
+.class20{
+    margin-top: 65px;
+}
