@@ -4,6 +4,8 @@
     box-sizing: border-box;
     outline: 0;
       font-family: "Zalando Sans SemiExpanded", sans-serif;
+    
+      
 }
 a{
     text-decoration: none;
@@ -43,6 +45,8 @@ h4,h1,h2,h3,h5,h6,p{
     width: 1920px;
     height: 1080px;
     margin: 0 auto;
+    overflow: hidden;
+
 }
 .navbar{
     width: 100%;
@@ -331,6 +335,7 @@ margin-top: -250px;
     height: 785px;
     background-color: #191919;
     margin: 0 auto;
+      overflow: hidden;
 }
 .two1{
   margin-left: 645px;  
@@ -423,6 +428,7 @@ margin-top: -250px;
     height: 1089.47px;
     background-color: #121212;
     margin: 0 auto;
+      overflow: hidden;
 }
 .three1 h3::after{
     width: 120px;
@@ -575,6 +581,7 @@ font-size:25px ;
     height: 1463px;
     background-color: #191919;
     margin: 0 auto;
+      overflow: hidden;
 }
 .three3 h3{
     font-size: 38px;
@@ -811,6 +818,7 @@ font-size:25px ;
     height: 858px;
     background-color: #121212;
     margin: 0 auto;
+      overflow: hidden;
 }
 .four1 h3::after{
     width: 120px;
@@ -1021,6 +1029,7 @@ margin-left: 1280px;
     width: 1920px;
     background-color: #212121;
     margin: 0 auto;
+      overflow: hidden;
 }
 .four6 h3{
     font-size: 38px;
@@ -1177,6 +1186,7 @@ margin-top: 57px;
     background-color: #121212;
     margin: 0 auto;
     position: relative;
+      overflow: hidden;
 
 }
 .class1 h3{
@@ -1395,6 +1405,7 @@ button{
     height:600px ;
     background-color:#191919 ;
 margin: 0 auto;
+  overflow: hidden;
 }
 .class15 img{
     margin-top: 140px;
