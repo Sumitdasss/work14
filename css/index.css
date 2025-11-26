@@ -617,7 +617,7 @@ font-size:25px ;
 }
 .row4{
     display: flex;
-    column-gap: 18px;
+    column-gap: 10px;
     margin-top: 54px;
 }
 .col20{
@@ -740,7 +740,7 @@ font-size:25px ;
     margin-top: 77px;
 }
 .three8{
-    width:1318px ;
+    width:1290px ;
     height:454px ;
     background-color:#121212 ;
     margin-top: 34px;
@@ -954,18 +954,7 @@ text-transform: uppercase;
 margin-left: 100px;
 }
 
-.four2 img{
-margin-left: 29px; 
-}
-.four3 img{
-margin-left: 24px;
-}
-.four4 img{
-margin-left: 21px;
-}
-.four5 img{
-margin-left: 29px;
-}
+
 .four2 a:hover{
     color: white;
     transition: .7s;
@@ -1127,14 +1116,14 @@ width: 645px;
 }
 .row7{
     display: flex;
-    column-gap: 20px;
+    column-gap: 8px;
 margin-top: 57px;
 
 }
 .row8{
     display: flex;
-    column-gap: 25px;
-    margin-top: 30px;
+    column-gap: 13px;
+    margin-top: 10px;
 }
 .four11{
     width: 622px;
@@ -1147,7 +1136,7 @@ margin-top: 57px;
     font-size:30px ;
     font-weight: 600;
     color: #FFFFFF;
-    padding-top: 58px;
+    padding-top: 40px;
     padding-left: 30px;
 }
 .overlay h5{
@@ -1156,6 +1145,7 @@ margin-top: 57px;
     color: #FFFFFF;
      padding-left: 30px;
      padding-top: 20px;
+     line-height: 20px;
     
 }
 .overlay a{
