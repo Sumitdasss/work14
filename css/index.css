@@ -45,8 +45,8 @@ h4,h1,h2,h3,h5,h6,p{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 1920px;
-    height: 1080px;
+    
+
     margin: 0 auto;
 
 
@@ -119,9 +119,13 @@ margin-left: 10px;
     margin-top: 300px;
 }
 .main3{
-    width: 1920px;
-    height: 912px;
-    background-color: #121212;
+     padding-bottom: 100px;
+    background:url(../imges/111.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
 }
     .main4 h3::after{
@@ -334,9 +338,14 @@ margin-top: -250px;
      color: #FF4655;
 }
 .bannerPart3{
-    width: 1920px;
-    height: 785px;
-    background-color: #191919;
+    
+         padding-bottom: 100px;
+    background:url(../imges/333.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
     
 }
@@ -427,10 +436,15 @@ margin-top: -250px;
 }
 
 .bannerPart5{
-    width: 1920px;
-    height: 1089.47px;
-    background-color: #121212;
+     padding-bottom: 100px;
+    background:url(../imges/111.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
+    
 
 }
 .three1 h3::after{
@@ -580,9 +594,13 @@ font-size:25px ;
    font-family: "Zalando Sans SemiExpanded", sans-serif;
 }
 .bannerPart7{
-    width: 1920px;
-    height: 1463px;
-    background-color: #191919;
+      padding-bottom: 100px;
+    background:url(../imges/333.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
       
 }
@@ -817,9 +835,13 @@ font-size:25px ;
 }
 
 .bannerPart9{
-    width: 1920px;
-    height: 858px;
-    background-color: #121212;
+     padding-bottom: 350px;
+    background:url(../imges/111.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
     
 }
@@ -1017,9 +1039,13 @@ margin-left: 1280px;
 
 }
 .bannerPart11{
-    height: 1210px;
-    width: 1920px;
-    background-color: #212121;
+     padding-bottom: 100px;
+    background:url(../imges/333.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
       
 }
@@ -1174,9 +1200,13 @@ margin-top: 57px;
     margin-top:-62PX ;
 }
 .bannerPart12{
-    height:826px ;
-    width:1920px ;
-    background-color: #121212;
+    padding-bottom: 100px;
+    background:url(../imges/111.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
     margin: 0 auto;
     position: relative;
     
@@ -1394,10 +1424,14 @@ button{
     margin-left:240px ;
 }
 .bannerPart13{
-    width:1920px ;
-    height:600px ;
-    background-color:#191919 ;
-margin: 0 auto;
+   padding-bottom: 100px;
+    background:url(../imges/333.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+    margin: 0 auto;
 
 }
 .class15 img{
