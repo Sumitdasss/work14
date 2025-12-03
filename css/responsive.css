@@ -31,6 +31,8 @@
         background-color: #FF4655;
         text-align: center;
         border-radius: 10px;
+      
+
     }
     .main1{
         background-color:#FF4655 ;
@@ -46,6 +48,14 @@
 
 /* hadderpart end */
 /* bannerpart start */
+.bannerPart1 {
+    padding-top: 209px;
+    padding-bottom: 100px;
+    background: url(../imges/Banner11.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 .main2 h4 {
     font-size: 17px;
     font-weight: 400;
@@ -66,8 +76,26 @@
     line-height: 20px;
     padding-right: 191px;
 }
+.main4 h3::after {
+    width: 110px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    margin-top: 17px;
+    margin-left: 10px;
+    background-color: #DDDDDD;
+}
+.main2 h2::after {
+    width: 70px;
+    height: 4px;
+    position: absolute;
+    content: "";
+    margin-top: 14.5px;
+    margin-left: 5px;
+    background-color: #DDDDDD;
+}
 .social1 {
-    margin-top: 300px;
+    margin-top: 214px;
 }
 /* bannerpart end */
 /* bannerpart1 start */
@@ -312,7 +340,7 @@
 }
 .div15 {
     margin-top: 42px;
-    margin-left: 58px;
+    margin-left: 62px;
 }
 /* bannerpart4 end */
 /* bannerpart5 start */
