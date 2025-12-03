@@ -57,24 +57,40 @@
     background-size: cover;
 }
 .main2 h4 {
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 400;
     color: #DDDDDD;
     padding-top: 0px;
 }
 .main2 h2 {
-    font-size: 23px;
+    font-size: 20px;
     font-weight: 600;
     color: #DDDDDD;
-    padding-top: 30px;
+    padding-top: 13px;
 }
 .main2 h5 {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     color: #DDDDDD;
-    padding-top: 30px;
+    padding-top: 15px;
     line-height: 20px;
-    padding-right: 191px;
+    padding-right: 89px;
+}
+.button1 {
+    margin-top: 50px;
+}
+.main5 img{
+    width: 100%;
+}
+.main5::after {
+    width: 157px;
+    height: 7px;
+    position: absolute;
+    content: "";
+    margin-top: 67.8px;
+    margin-left: -488px;
+    background-color: #FF4655;
+    rotate: calc(90deg);
 }
 .main4 h3::after {
     width: 110px;
@@ -100,7 +116,7 @@
 /* bannerpart end */
 /* bannerpart1 start */
 .main4 h3 {
-    font-size: 21px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 18px;
@@ -115,11 +131,24 @@
     margin-left: 14px;
 }
 .main6 h4 {
-    font-size: 24px;
+    font-size: 19px;
     font-weight: 550;
     color: #FFFFFF;
 }
 
+.main6 ul {
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 300;
+    padding-top: 17px;
+    margin-left: -30px;
+}
+.main6 p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 22px;
+}
 .one1 {
     background-color: #212121;
     border-top-right-radius: 50px;
@@ -149,45 +178,79 @@
     margin-top: 35px;
     padding-bottom: 20px;
 }
+.one1 h3 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 42px;
+}
+.one2 h3 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 42px;
+}
+.one3 h3 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 42px;
+}
+.one4 h3 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 42px;
+}
 /* bannerpart1 end */
 /* bannerpart2 start */
 .two1 {
-    margin-left: 131px;
+    margin-left: 40px;
 }
 .two1 h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 25px;
 }
 .two1 h4 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 9.5px;
-    padding-left: 310px;
+    padding-left: 258px;
 }
 .two1 h4::after {
     width: 105px;
     height: 4px;
     position: absolute;
     content: "";
-    margin-top: 14px;
+    margin-top: 11px;
     margin-left: -211px;
     background-color: #FF4655;
 }
 .two2 {
-    margin-top: 66px;
-    margin-left: -10px;
+    margin-top: 56px;
+    margin-left: -32px;
+}
+.two2 img {
+    width: 71%;
+    margin-top: -106px;
+}
+.div24 img{
+width: 100%;
 }
 .two3 {
     margin-top: 41px;
-    margin-left: -10px;
+    margin-left: 0px;
+}
+.two3 img{
+    width: 100%;
 }
 /* bannerpart2 end */
 /* bannerpart3 start */
 .three1 h3 {
-    font-size: 29px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     line-height: 36.5px;
@@ -198,60 +261,70 @@
     height: 3px;
     position: absolute;
     content: "";
-    margin-top: 25px;
+    margin-top: 22px;
     margin-left: 20px;
     background-color: #FF4655;
 }
 .div1 {
     margin-top: 25px;
-    margin-left: 55px;
+    margin-left: 0px;
 }
+.div1 img{
+    width: 100%;
+}
+.div2 img{
+    width: 100%;
+}
+.div3 img{
+    width: 100%;
+}
+
 .div2 {
     margin-top: 25px;
-     margin-left: 55px;
+     margin-left: 0px;
 }
 .div3 {
     margin-top: 25px;
-     margin-left: 55px;
+     margin-left: 0px;
 }
 .div4 {
     width: 426px;
     height: 118.05px;
     background: url(../imges/44.png);
-    margin-left: 55px;
+    margin-left: -9px;
     margin-top: 50px;
 }
 .div5 {
     width: 243px;
     height: 118.05px;
-    margin-left: 150px;
+    margin-left: 78px;
     margin-top: 0px;
 }
 .div6 {
     width: 426px;
     height: 118.05px;
     background: url(../imges/55.png);
-    margin-left: 55px;
+    margin-left: -10px;
     margin-top: -21px;
 }
 .div7 {
     width: 426px;
     height: 118.05px;
     background: url(../imges/44.png);
-    margin-left: 55px;
+    margin-left: -9px;
     margin-top: 50px;
 }
 .div8 {
     width: 243px;
     height: 118.05px;
-    margin-left: 150px;
+    margin-left: 78px;
     margin-top: 0px;
 }
 .div9 {
     width: 426px;
     height: 118.05px;
     background: url(../imges/55.png);
-    margin-left: 55px;
+    margin-left:-10px;
     margin-top: -21px;
 }
 
@@ -260,49 +333,61 @@
 
 /* bannerpart4 start */
 .three3 {
-    margin-left: 131px;
+    margin-left: 53px;
 }
 .three3 h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 25px;
 }
 .three3 h4 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 9.5px;
-    padding-left: 310px;
+    padding-left: 260px;
 }
 .three3 h4::after {
     width: 105px;
     height: 4px;
     position: absolute;
     content: "";
-    margin-top: 14px;
+    margin-top: 11px;
     margin-left: -211px;
     background-color: #FF4655;
 }
 .div10{
     margin-top: 50px;
-    margin-left: 116px;
+    margin-left: 0px;
+}
+.div10 img{
+   width: 100%; 
+}
+.div11 img{
+   width: 100%; 
+}
+.div12 img{
+   width: 100%; 
+}
+.div13 img{
+   width: 100%; 
 }
 .div11{
     margin-top: 50px;
-    margin-left: 116px;
+    margin-left: 0px;
 }
 .div12{
     margin-top: 50px;
-    margin-left: 116px;
+    margin-left: 0px;
 }
 .div13{
     margin-top: 50px;
-    margin-left: 116px;
+    margin-left: 0px;
 }
 .three7 {
-    margin-top: 56px;
-    margin-left: 147px;
+    margin-top: 53px;
+    margin-left: 76px;
 }
 .div14 h4 {
     font-size: 16px;
@@ -312,7 +397,7 @@
     padding-left: 30px;
 }
 .div14 h3 {
-    font-size: 26px;
+    font-size: 19px;
     font-weight: 600;
     color: #FFFFFF;
     padding-left: 30px;
@@ -340,12 +425,16 @@
 }
 .div15 {
     margin-top: 42px;
-    margin-left: 62px;
+    margin-left: 0px;
 }
+.div15 img{
+    width: 100%;
+}
+
 /* bannerpart4 end */
 /* bannerpart5 start */
 .four1 h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     line-height: 29.5px;
@@ -361,7 +450,7 @@
     background-color: #FF4655;
 }
 .div16 img {
-    margin-left: 156px;
+    margin-left: 90px;
 }
 .div16 a {
     font-size: 18px;
@@ -369,10 +458,10 @@
     color: #FF4655;
     text-align: center;
     text-transform: uppercase;
-    margin-left: 201px;
+    margin-left: 143px;
 }
 .div17 img {
-    margin-left: 140px;
+    margin-left: 77px;
 }
 .div17 a {
     font-size: 18px;
@@ -380,11 +469,11 @@
     color: #FF4655;
     text-align: center;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 132px;
     text-transform: uppercase;
 }
 .div18 img {
-    margin-left: 143px;
+    margin-left: 73px;
 }
 
 .div18 a {
@@ -393,11 +482,11 @@
     color: #FF4655;
     text-align: center;
     margin-top: 20px;
-    margin-left: 197px;
+    margin-left: 136px;
     text-transform: uppercase;
 }
 .div19 img {
-    margin-left: 156px;
+  margin-left: 90px;
 }
 .div19 a {
     font-size: 18px;
@@ -405,61 +494,173 @@
     color: #FF4655;
     text-align: center;
     text-transform: uppercase;
-    margin-left: 201px;
+    margin-left: 138px;
 }
 /* bannerpart5 end */
 /* bannerpart6 start */
-.four6{
-    margin-left: 119px;
+.four6 {
+    margin-left: 43px;
 }
 .four6 h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 25px;
 }
 .four6 h4 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 9.5px;
-    padding-left: 353px;
+    padding-left: 294px;
 }
 .four6 h4::after {
     width: 105px;
     height: 4px;
     position: absolute;
     content: "";
-    margin-top: 14px;
-    margin-left: -211px;
+    margin-top: 11px;
+    margin-left: -185px;
     background-color: #FF4655;
 }
 .div20 {
     margin-top: 30px;
-    margin-left: -10px;
+    margin-left: 0px;
     position: relative;
+}
+.div20 img{
+    width: 100%;
+}
+.div21 img{
+    width: 100%;
+}
+.div22 img{
+    width: 100%;
+}
+.div23 img{
+    width: 100%;
 }
 .div21 {
     margin-top: 30px;
-    margin-left: -10px;
+    margin-left: 0px;
     position: relative;
 }
 .div22 {
     margin-top: 30px;
-    margin-left: -10px;
+    margin-left: 0px;
     position: relative;
 }
 .div23 {
     margin-top: 30px;
-    margin-left: -10px;
+    margin-left: 0px;
     position: relative;
+}
+.social2 {
+    margin-left: 179PX;
+    margin-top: -62PX;
+}
+.overlay {
+    width: 100%;
+    background-color: #252424;
+    opacity: 38%;
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    padding-bottom: 12px;
+}
+.overlay h4 {
+    font-size: 19px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 9px;
+    padding-left: 30px;
+}
+.overlay h5 {
+    font-size: 13px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-left: 30px;
+    padding-top: 20px;
+    line-height: 20px;
+}
+.overlay a {
+    padding: 5px 20px;
+    background-color: #FF4655;
+    font-size: 18px;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
+    padding-bottom: 50p;
+}
+.social2 {
+    margin-left: 179PX;
+    margin-top: -53PX;
+}
+.social2 a {
+    padding: 5PX 5PX;
+    background-color: #FF4655;
+    border: 2PX solid black;
+    border-radius: 50%;
+    padding-top: 9px;
+    padding-left: 4px;
+    font-size: 20px;
+}
+.overlay1 {
+    width: 100%;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;
+    position: absolute;
+    top: 178px;
+    left: 0px;
+}
+.overlay1 h3 {
+    font-size: 19px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 37px;
+    padding-left: 31px;
+}
+.overlay2 {
+    width: 100%;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;
+    position: absolute;
+    top: 178px;
+    left: 0px;
+}
+.overlay2 h3 {
+    font-size: 19px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 37px;
+    padding-left: 31px;
+}
+.overlay3 {
+    width: 100%;
+    height: 89.65px;
+    background-color: #252424;
+    opacity: 38%;
+    position: absolute;
+    top: 178px;
+    left: 0px;
+}
+.overlay3 h3 {
+    font-size: 19px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 37px;
+    padding-left: 31px;
 }
 /* bannerpart6 end */
 
 /* bannerpart7 start */
 
 .class1 h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
     line-height: 31px;
@@ -470,56 +671,117 @@
     height: 3px;
     position: absolute;
     content: "";
-    margin-top: 21px;
+    margin-top: 20px;
     margin-left: 15px;
     background-color: #FF4655;
 }
 .class2 {
     margin-top: 50px;
-    width: 103px;
+    width: 89px;
 }
 .class4 {
     margin-top: 50px;
-    width: 103px;
+    width: 89px;
 }
 .class6 {
-    margin-top: 50px;
-    width: 103px;
+  margin-top: 50px;
+    width: 89px;
 }
 .class8 {
     margin-top: 50px;
-    width: 103px;
+    width: 89px;
+}
+.class3 h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #FF4655;
+    padding-left: 15px;
+}
+.class3 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 15px;
+    line-height: 25px;
+    padding-right: 68px;
+}
+.class5 h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-left: 15px;
+}
+.class5 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 15px;
+    line-height: 25px;
+    padding-right: 68px;
+}
+.class7 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 15px;
+    line-height: 25px;
+    padding-right: 68PX;
+}
+.class7 h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-left: 15px;
+}
+.class9 h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-left: 15px;
+}
+.class9 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+    padding-top: 25px;
+    padding-left: 15px;
+    line-height: 25px;
+    padding-right: 68PX;
 }
 .class10 {
-    width: 550px;
+    width: 420px;
     height: 3px;
     position: absolute;
     content: "";
-    margin-top: -147px;
+    margin-top: -190px;
     background-color: #666666;
+    margin-left: -7px;
 }
 .class11 {
-    width: 550px;
+    width: 420px;
     height: 3px;
     position: absolute;
     content: "";
-    margin-top: -315px;
-    margin-left: 0px;
+    margin-top: -405px;
+    margin-left: -7px;
     background-color: #666666;
-    rotate:none;
+    rotate: none;
 }
 .class111 {
-    width: 550px;
+    width: 420px;
     height: 3px;
     position: absolute;
     content: "";
-    margin-top: -481px;
-    margin-left: 0px;
+    margin-top: -619px;
+    margin-left: -7px;
     background-color: #666666;
     rotate: none;
 }
 .class12 h3 {
-    font-size: 12px;
+    font-size: 19px;
     font-weight: 600;
     color: #FFFFFF;
     padding-top: 7px;
@@ -529,23 +791,21 @@
 }
 .class12 {
     width: 572px;
-    height: 75px;
+    height: 121px;
     background-color: #FF4655;
     margin-top: 51px;
     position: absolute;
     margin-left: -12px;
 }
+
 .class13 {
-    margin-top: -70px;
-    margin-left: 100px;
+    margin-top: 9px;
+    margin-left: 59px;
 }
-.class13 {
-    margin-top: -29px;
-    margin-left: 289px;
-}
+
 input {
-    width: 276px;
-    height: 23px;
+    width: 310px;
+    height: 42px;
     background-color: white;
     border-radius: 50px;
     font-size: 15px;
@@ -553,12 +813,12 @@ input {
     border: none;
 }
 .class14 {
-    margin-top: -25px;
-    margin-left: 150px;
+    margin-top: -42px;
+    margin-left: 155px;
 }
 button {
-    width: 127px;
-    height: 23px;
+    width: 155px;
+    height: 42px;
     background-color: black;
     color: #FFFFFF;
     border-radius: 50px;
@@ -576,7 +836,8 @@ button {
 /* bannerpart7 end */
 /* bannerpart8 start */
 .class15 img {
-    margin-top: 58px;
+    margin-top: 116px;
+    margin-left: 146px;
 }
 .class15 p {
     font-size: 14px;
@@ -586,12 +847,15 @@ button {
     padding-top: 7px;
     line-height: 26px;
     padding-right: 0px;
+    text-align: center;
 }
 .class20 {
     margin-top: 16px;
+    margin-left: 100px;
 }
 .class16 {
     margin-top: 30px;
+    margin-left: 66px;
 }
 .class16 h3 {
     font-size: 25px;
@@ -603,36 +867,37 @@ button {
     padding-top: 22px;
     font-weight: 600;
     color: #666666;
-    line-height: 30px;
+    line-height: 51px;
     padding-left: 0px;
 }
 .class17 {
-    margin-top: -141px;
-    margin-left: 51px;
+    margin-top: -224px;
+    margin-left: 178px;
 }
 .class22 li {
     padding-top: 22px;
     font-weight: 600;
     color: #666666;
-    line-height: 5px;
+    line-height: 25px;
     padding-left: 72px;
 }
 .class18 {
-    margin-top: -144px;
-    margin-left: 224px;
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-right: 31px;
 }
 .class18 img {
-    margin-left: 15px;
+width: 100%;
     margin-top: 20px;
 }
 .class18 h3 {
     font-size: 25px;
     font-weight: 600;
     color: white;
-    padding-left: 110px;
+    padding-left: 138px;
 }
 .class23 {
-    width: 562px;
+    width: 420px;
     height: 3px;
     position: absolute;
     content: "";
@@ -641,12 +906,18 @@ button {
     margin-left: -7px;
 }
 .class24 h4 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     color: white;
     padding-left: 2px;
     text-align: center;
     padding-top: 33px;
+}
+.class25 {
+    font-size: 19px;
+    font-weight: 400;
+    color: #FF4655;
+    text-align: center;
 }
 .bannerPart13 {
     padding-bottom: 13px;
