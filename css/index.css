@@ -25,6 +25,10 @@ h4,h1,h2,h3,h5,h6,p{
 
     line-height: 0.8;
 }
+.container{
+    position: relative;
+}
+
 .main1 a{
     margin: 0px 10px;
     color: white;
@@ -124,6 +128,295 @@ margin-left: 10px;
 .social1{
     margin-top: 300px;
 }
+/* sign in part */
+
+    .div26 {
+    position: absolute;
+    width: 480px;
+    height: 420px;
+    background-color: rgb(231, 9, 9);
+    border-radius: 10px;
+    overflow: hidden;
+    top: -228px;
+    left: 818px;
+    display: none;
+    z-index: 2;
+}
+    
+
+.div26::before{
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 480px;
+    height: 390px;
+    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite;
+}
+.div26::after{
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 480px;
+    height: 390px;
+    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite;
+    animation-delay:  3s;
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+.login{
+    position: absolute;
+    inset: 3px;
+    border-radius: 8px;
+    background: #222121;
+    z-index: 10;
+    color: white;
+    padding: 50px 40px;
+    display: flex;
+    top: 3px;
+    bottom: 2px;
+    
+    flex-direction:  column;
+}
+.login h2{
+    font-weight: 500;
+text-align: center;
+    
+}
+.inputBox{
+    width: 300px;
+    position: relative;
+    margin-top: 30px;
+    
+
+}
+.inputBox input{
+    position: relative;
+    width: 100%;
+    padding: 20px 10px 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 16px;
+ 
+    z-index: 10;
+}
+.inputBox span{
+    position: absolute;
+    left: 0;
+    padding: 20px 10px 10px ;
+    font-size: 20px;
+   
+    color: black;
+    pointer-events: none;
+    transition: .5s;
+
+}
+
+.inputBox i{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 395px;
+    height: 2px;
+    background:white;
+    border-radius: 4px;
+    transition: .5s;
+    pointer-events: none;
+    z-index: 9;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#slideUpDown3 a{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+
+    
+}
+.link a:hover,
+.link a:nth-child(2){
+    color: rgb(250, 248, 248);
+}
+input[ type="submit"]{
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 11px 25px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+}
+input[ type="submit"]:active{
+    opacity: .8;
+}
+/* sign in part */
+/* sign up part */
+
+.div27 {
+    position: absolute;
+    width: 480px;
+    height: 733px;
+    background-color: rgb(231, 9, 9);
+    border-radius: 10px;
+    overflow: hidden;
+    top: -228px;
+    left: 818px;
+    display: none;
+    z-index: 1;
+}
+    
+
+.div27::before{
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 600px;
+    height: 733px;
+    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite;
+}
+.div27::after{
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 600px;
+    height: 733px;
+    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite;
+    animation-delay:  3s;
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+ .login1{
+    
+    position: absolute;
+    inset: 3px;
+    border-radius: 8px;
+    background: #222121;
+    z-index: 10;
+    color: white;
+    padding: 50px 40px;
+    display: flex;
+    top: 3px;
+    bottom: 2px;
+    flex-direction: column;
+}
+
+.login1 h2{
+    font-weight: 500;
+text-align: center;
+    
+}
+.inputBox1{
+    width: 300px;
+    position: relative;
+    margin-top: 20px;
+    
+
+}
+.inputBox1 input{
+    position: relative;
+    width: 100%;
+    padding: 20px 10px 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 18px;
+ 
+    z-index: 10;
+}
+.inputBox1 span{
+    position: absolute;
+    left: 0;
+    padding: 20px 10px 10px ;
+    
+font-size: 16px;
+    color: black;
+    pointer-events: none;
+    transition: .5s;
+
+}
+
+.inputBox1 i{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 395px;
+    height: 2px;
+    background:white;
+    border-radius: 4px;
+    transition: .5s;
+    pointer-events: none;
+    z-index: 9;
+}
+.link1{
+    display: flex;
+    justify-content: space-between;
+}
+.div28 a{
+    
+   padding: 10px 25px;
+    font-size: 18px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+font-weight: 600;
+    
+    
+}
+#slideUpDown4 a{
+    
+   
+    font-size: 20px;
+    
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+    margin-top: 27px;
+font-weight: 600;
+    
+}
+.div28 a:active{
+    opacity: .8;
+}
+
+#div29 a:active{
+    opacity: .8;
+}
+
+/* sign up part */
 .main3{
      padding-bottom: 100px;
     background:url(../imges/111.png);
