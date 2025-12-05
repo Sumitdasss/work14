@@ -162,6 +162,75 @@
     pointer-events: none;
     z-index: 9;
 }
+.div32 h3 {
+    color: white;
+    font-size: 15px;
+    padding-left: 0px;
+    padding-top: 53px;
+}
+.div31 {
+    display: flex;
+    margin-left: 0px;
+    margin-top: 20px;
+
+}
+.div32 {
+    width: 46px;
+    
+}
+.hours {
+    width: 100px;
+    margin-top: 0;
+}
+.minutes {
+    width: 100px;
+    margin-top: 0;
+}
+.seconds {
+    width: 100px;
+    margin-top: 0;
+}
+.days h3 {
+    color: white;
+    padding-top: 27px;
+    font-size: 15px;
+    padding-left: 2px;
+            padding-top: 53px;
+}
+.days p {
+    color: white;
+    font-size: 15px;
+}
+.hours h3 {
+    color: white;
+    padding-top: 27px;
+    font-size: 15px;
+    padding-left: 8px;
+}
+.hours p {
+    color: white;
+    font-size: 15px;
+}
+.minutes h3 {
+    color: white;
+    padding-top: 27px;
+    font-size: 15px;
+    padding-left: 8px;
+}
+.minutes p {
+    color: white;
+    font-size: 15px;
+}
+.seconds h3 {
+    color: white;
+    padding-top: 27px;
+    font-size: 15px;
+    padding-left: 8px;
+}
+.seconds p {
+    color: white;
+    font-size: 15px;
+}
 .main4 h3 {
     font-size: 20px;
     font-weight: 600;

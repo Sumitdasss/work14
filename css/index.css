@@ -417,6 +417,79 @@ font-weight: 600;
 }
 
 /* sign up part */
+.div31{
+    display: flex;
+margin-left: 806px;
+    
+
+}
+.days{
+     width: 100px; 
+     margin-top: -24px; 
+    
+    
+}
+.div32 {
+    width: 100px;
+    margin-top: -24px;
+}
+.div32 h3{
+    color: white;
+    font-size: 25px;
+    padding-left: 42px;
+    
+}
+.days h3{
+    color: white;
+    text-align: center;
+    
+}
+.hours p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.minutes p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.seconds p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.days p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.hours h3{
+    color: white;
+    text-align: center;
+}
+.minutes h3{
+    color: white;
+    text-align: center;
+}
+.seconds h3{
+    color:white;
+    text-align: center;
+}
+.hours{
+    width: 100px; 
+    margin-top: -24px;
+}
+.minutes{
+     width: 100px; 
+     margin-top: -24px;
+    
+}
+.seconds{
+    width: 100px; 
+    margin-top: -24px;
+    
+}
 .main3{
      padding-bottom: 100px;
     background:url(../imges/111.png);
