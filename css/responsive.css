@@ -118,13 +118,13 @@
 /* bannerpart1 start */
 .div26 {
     position: absolute;
-    width: 403px;
+    width: 100%;
     height: 399px;
     background-color: rgb(231, 9, 9);
     border-radius: 10px;
     overflow: hidden;
     top: 250px;
-    left: 14px;
+    left: 0px;
 }
 .inputBox i {
     position: absolute;
@@ -140,13 +140,13 @@
 }
 .div27 {
     position: absolute;
-    width: 403px;
+    width: 100%;
     height: 733px;
     background-color: rgb(231, 9, 9);
     border-radius: 10px;
     overflow: hidden;
     top: 250px;
-    left: 14px;
+    left: 0px;
     display: none;
     z-index: 1;
 }
