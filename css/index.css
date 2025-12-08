@@ -134,7 +134,7 @@ margin-left: 10px;
     position: absolute;
     width: 480px;
     height: 420px;
-    background-color: rgb(231, 9, 9);
+    background-color: white;
     border-radius: 10px;
     overflow: hidden;
     top: -228px;
@@ -151,7 +151,7 @@ margin-left: 10px;
     left: -50%;
     width: 480px;
     height: 390px;
-    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    background:  linear-gradient(0deg,  rgb(238, 72, 6), transparent, transparent);
     transform-origin: bottom right;
     animation: animate 6s linear infinite;
 }
@@ -162,7 +162,7 @@ margin-left: 10px;
     left: -50%;
     width: 480px;
     height: 390px;
-    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    background:  linear-gradient(0deg, rgb(238, 72, 6), transparent, transparent);
     transform-origin: bottom right;
     animation: animate 6s linear infinite;
     animation-delay:  3s;
@@ -209,7 +209,7 @@ text-align: center;
     border: none;
     outline: none;
     color: white;
-    font-size: 22px;
+    font-size: 19px;
  
     z-index: 10;
 }
@@ -274,7 +274,7 @@ input[ type="submit"]:active{
     position: absolute;
     width: 480px;
     height: 733px;
-    background-color: rgb(231, 9, 9);
+    background-color: white;
     border-radius: 10px;
     overflow: hidden;
     top: -228px;
@@ -291,7 +291,7 @@ input[ type="submit"]:active{
     left: -50%;
     width: 600px;
     height: 733px;
-    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    background:  linear-gradient(0deg, rgb(238, 72, 6), transparent, transparent);
     transform-origin: bottom right;
     animation: animate 6s linear infinite;
 }
@@ -302,7 +302,7 @@ input[ type="submit"]:active{
     left: -50%;
     width: 600px;
     height: 733px;
-    background:  linear-gradient(0deg, yellow, transparent, transparent);
+    background:  linear-gradient(0deg,rgb(238, 72, 6), transparent, transparent);
     transform-origin: bottom right;
     animation: animate 6s linear infinite;
     animation-delay:  3s;
@@ -350,7 +350,7 @@ text-align: center;
     border: none;
     outline: none;
     color: white;
-    font-size: 22px;
+    font-size: 19px;
  
     z-index: 10;
 }
@@ -861,6 +861,69 @@ margin-top: 41px;
 .div3{
  
       margin-top: 50px;
+}
+.div1 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div2 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div3 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div20 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div21 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div22 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div23 img{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.div1 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div2 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div3 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div20 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div21 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div22 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
+}
+.div23 img:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: .7s;
 }
 .three2 h4{
     font-size: 25px;
