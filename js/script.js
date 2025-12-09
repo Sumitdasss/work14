@@ -64,3 +64,25 @@ $(function () {
         //seconds
       }, 0)
   }());
+  // autoplay -==============================
+  $('.sliders').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 400,
+  arrows:false,
+  
+  
+});
+  // autoplay -==============================
+  $('.sliders1').slick({
+  slidesToShow: 2,
+  slidesToScroll: 1,
+autoplay:true,
+  autoplaySpeed: 400,
+  prevArrow:'<i class="fa-solid fa-chevron-left button4"></i>',
+  nextArrow:'<i class="fa-solid fa-chevron-right button5"></i>'
+  
+  
+  
+});

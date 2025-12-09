@@ -29,6 +29,8 @@ h4,h1,h2,h3,h5,h6,p{
     position: relative;
 }
 
+/* bannerPart1 start */
+
 .main1 a{
     margin: 0px 10px;
     color: white;
@@ -109,6 +111,7 @@ z-index: 9999;
 .button1 i{
     
 }
+
 
 .button1 a:hover{
     color: tomato;
@@ -490,6 +493,9 @@ margin-left: 806px;
     margin-top: -24px;
     
 }
+/* bannerPart1 end */
+/* bannerPart2 start */
+
 .main3{
      padding-bottom: 100px;
     background:url(../imges/111.png);
@@ -618,10 +624,15 @@ margin-top: -250px;
     text-align: center;
     margin-top: 100px;
     padding-bottom: 20px;
-
+position: relative;
 
     
 }
+.sliders .col-lg-3 {
+    margin-right: 21px;   
+}
+
+
 .one2{
    
     background-color: #212121;
@@ -666,9 +677,9 @@ margin-top: -250px;
     padding-top: 42px;
 }
 .one1 i{
-    font-size: 15px;
-    margin-left: 5px;
+    font-size: 15px!important;
     color: #FF4655;
+        margin-left: 5px;
 }
 .one2 h3{
     font-size: 60px;
@@ -722,6 +733,9 @@ margin-top: -250px;
     margin-left: 5px;
      color: #FF4655;
 }
+/* bannerPart2 end */
+/* bannerPart3 start */
+
 .bannerPart3{
     
          padding-bottom: 100px;
@@ -777,7 +791,7 @@ margin-top: -250px;
 
     
      margin-top: 100px;
-     margin-left: 99px;
+    
 }
 
    
@@ -787,27 +801,28 @@ margin-top: -250px;
     margin-left: 60px;
     position: absolute;
 }
-.button4{
- margin-left:1230px;
-    margin-top:-100px;
+
+.button4 {
+ 
+    color: white;
+     font-size: 30px;
+    position: absolute;
+    top: 80%;
+    right: 20px;
+z-index: 1111;
 }
+
+    
+
 .button5{
-    margin-left:1230px;
-    margin-top:-40px ;
-}
-.button4 a{
-  padding: 10px 10px;
-    background-color: #191919;
-    border: 4px solid white;
-    border-radius: 50%;
+
+   
     color: white;
-}
-.button5 a{
-    padding: 10px 10px;
-    background-color: #191919;
-    border: 4px solid white;
-    border-radius: 50%;
-    color: white;
+    font-size: 30px;
+     position: absolute;
+    top: 100%;
+    right: 20px;
+
 
 }
 .button4 a:hover{
@@ -825,6 +840,8 @@ margin-top: -250px;
     line-height: 47.5px;
     padding-top: 102px;
 }
+/* bannerPart3 end */
+/* bannerPart4 start */
 
 .bannerPart5{
      padding-bottom: 100px;
@@ -869,6 +886,7 @@ margin-top: 41px;
 .div2 img{
     filter: grayscale(100%);
     cursor: pointer;
+
 }
 .div3 img{
     filter: grayscale(100%);
@@ -894,6 +912,7 @@ margin-top: 41px;
     filter: grayscale(0%);
     transform: scale(1.1);
     transition: .7s;
+
 }
 .div2 img:hover{
     filter: grayscale(0%);
@@ -1043,6 +1062,9 @@ font-size:25px ;
    margin-left:60px ;
    font-family: "Zalando Sans SemiExpanded", sans-serif;
 }
+/* bannerPart4 end */
+/* bannerPart5 start */
+
 .bannerPart7{
       padding-bottom: 100px;
     background:url(../imges/333.png);
@@ -1259,6 +1281,8 @@ font-size:25px ;
     line-height: 47.5px;
     padding-top: 102px;
 }
+/* bannerPart5 end */
+/* bannerPart5 start */
 
 .bannerPart9{
      padding-bottom: 350px;
@@ -1481,6 +1505,9 @@ margin-left: 1280px;
   margin-left: 618px;  
 
 }
+/* bannerPart5 end */
+/* bannerPart6 start */
+
 .bannerPart11{
      padding-bottom: 100px;
     background:url(../imges/333.png);
@@ -1634,6 +1661,9 @@ background-color: #252424;
     margin-left:364PX ;
     margin-top:-62PX ;
 }
+/* bannerPart6 end */
+/* bannerPart7 start */
+
 .bannerPart12{
     padding-bottom: 198px;
     background:url(../imges/111.png);
@@ -1867,6 +1897,9 @@ button{
     margin-top:-50px ;
     margin-left:240px ;
 }
+/* bannerPart7 end */
+/* bannerPart8 start */
+
 .bannerPart13{
    padding-bottom: 100px;
     background:url(../imges/333.png);
@@ -2003,3 +2036,4 @@ padding-top: 22px;
     
 
 }
+/* bannerPart8 end */
