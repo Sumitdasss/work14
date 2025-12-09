@@ -71,7 +71,21 @@ $(function () {
   autoplay: true,
   autoplaySpeed: 400,
   arrows:false,
-  
+  responsive: [
+    {
+      breakpoint: 576,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 3,
+        infinite: true,
+        dots:false,
+      }
+    }
+   
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
   
 });
   // autoplay -==============================
@@ -79,10 +93,16 @@ $(function () {
   slidesToShow: 2,
   slidesToScroll: 1,
 autoplay:true,
-  autoplaySpeed: 400,
+  autoplaySpeed: 1000,
+  dots:true,
   prevArrow:'<i class="fa-solid fa-chevron-left button4"></i>',
   nextArrow:'<i class="fa-solid fa-chevron-right button5"></i>'
   
   
   
 });
+ AOS.init({
+   debounceDelay:200000,
+ }
+
+ );

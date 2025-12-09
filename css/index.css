@@ -812,8 +812,34 @@ position: relative;
 z-index: 1111;
 }
 
+ .slick-dots{
+    display: flex;
+     position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 37px;
+ }   
+.slick-dots li{
+    margin: 0px 10px;
+    font-size: 0px;
+    width: 12px;
+    height: 12px;
+    background-color: #121212;
+    border-radius: 50%;
+   
     
+}
+.back1 a{
+font-size: 30px;
+color: #FF4655;
 
+}
+.slick-dots li button{
+    display: none;
+}
+.slick-dots li.slick-active{
+    background: #FF4655;
+}
 .button5{
 
    
@@ -1884,7 +1910,7 @@ border: none;
     margin-top: -70px;
     margin-left: 880px;
 }
-button{
+.button10{
    width: 180px;
    height: 50px;
    background-color: black;
@@ -1901,7 +1927,7 @@ button{
 /* bannerPart8 start */
 
 .bannerPart13{
-   padding-bottom: 100px;
+   padding-bottom: 32px;
     background:url(../imges/333.png);
     background-repeat: no-repeat;
     background-position: center;
