@@ -833,6 +833,14 @@ z-index: 1111;
 font-size: 30px;
 color: #FF4655;
 
+
+}
+.back-to-top {
+    position: fixed;
+    font-size: 30px;
+    color: #FF4655;
+    right: 20px;
+    bottom: 20px;
 }
 .slick-dots li button{
     display: none;
