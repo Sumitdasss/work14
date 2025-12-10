@@ -108,9 +108,9 @@ z-index: 9999;
 .button1{
     margin-top: 60px;
 }
-.button1 i{
+
     
-}
+
 
 
 .button1 a:hover{
@@ -824,7 +824,7 @@ z-index: 1111;
     font-size: 0px;
     width: 12px;
     height: 12px;
-    background-color: #121212;
+    background-color: black;
     border-radius: 50%;
    
     
@@ -1319,7 +1319,7 @@ font-size:25px ;
 /* bannerPart5 start */
 
 .bannerPart9{
-     padding-bottom: 350px;
+     padding-bottom: 81px;
     background:url(../imges/111.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -1387,7 +1387,7 @@ font-weight:600 ;
 color: #FF4655;
 text-align: center;
 text-transform: uppercase;
-margin-left: 100px;
+margin-left: 82px;
 }
 .div17 h3{
  font-size:40px ; 
@@ -1410,7 +1410,7 @@ font-weight:600 ;
 color: #FF4655;
 text-align: center;
 margin-top: 20px;
-margin-left: 100px;
+margin-left: 82px;
 text-transform: uppercase;
 }
 .div18 h3{
@@ -1434,7 +1434,7 @@ font-weight:600 ;
 color: #FF4655;
 text-align: center;
 margin-top: 20px;
-margin-left: 100px;
+margin-left: 82px;
 text-transform: uppercase;
 }
 .div19 h3{
@@ -1457,7 +1457,7 @@ font-weight:600 ;
 color: #FF4655;
 text-align: center;
 text-transform: uppercase;
-margin-left: 100px;
+margin-left: 82px;
 }
 
 
@@ -1494,28 +1494,24 @@ margin-left: 100px;
   margin-left: 37px;
 
 }
-.button7 a{
- padding: 10px 10px;
- background-color: #FF4655; 
- border: 2px solid white;  
- color: white;
- border-radius: 50%;
- 
+.sliders2 .col-lg-3{
+    margin-right: 21px;
 }
-.button8 a{
-padding: 10px 10px;
- background-color: #FF4655; 
- border: 2px solid white;  
- color: white;
- border-radius: 50%;
+
+.button7 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    z-index: 1;
 }
-.button7{
-   margin-top:-240px ; 
-   margin-left:-28px ;
-}
-.button8{
-margin-top: -25px;
-margin-left: 1280px;
+.button8 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    right: 20px;
 }
 .four6 h4{
     font-size: 38px;

@@ -106,3 +106,16 @@ autoplay:true,
  }
 
  );
+
+$('.sliders2').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+autoplay:true,
+  autoplaySpeed: 1000,
+  dots:true,
+  prevArrow:'<i class="fa-solid fa-chevron-left button7"></i>',
+  nextArrow:'<i class="fa-solid fa-chevron-right button8"></i>'
+  
+  
+  
+});
